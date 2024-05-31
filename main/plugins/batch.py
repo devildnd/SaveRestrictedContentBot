@@ -1,5 +1,5 @@
-#Tg:MaheshChauhan/DroneBots
-#Github.com/Vasusen-code
+#Tg:dnddev/cuetnote
+#Github.com/devildnd
 
 """
 Plugin for both public & private channels!
